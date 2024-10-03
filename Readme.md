@@ -52,18 +52,4 @@ wget -P checkpoints/ https://dl.fbaipublicfiles.com/segment_anything_2/072824/sa
 
 ## <a name="GettingStarted"></a>Getting Started
 
-You can test the Text2Seg on demo.ipynb notebook. 
-
-
-## Citing Text2Seg
-
-If you find Text2Seg useful, please use the following BibTeX entry.
-
-```
-@article{zhang2023text2seg,
-  title={Text2Seg: Remote Sensing Image Semantic Segmentation via Text-Guided Visual Foundation Models},
-  author={Zhang, Jielu and Zhou, Zhongliang and Mai, Gengchen and Mu, Lan and Hu, Mengxuan and Li, Sheng},
-  journal={arXiv preprint arXiv:2304.10597},
-  year={2023}
-}
-```
+To run the cose you should use main.py
