@@ -52,4 +52,15 @@ wget -P checkpoints/ https://dl.fbaipublicfiles.com/segment_anything_2/072824/sa
 
 ## <a name="GettingStarted"></a>Getting Started
 
-To run the cose you should use main.py
+There are 2 options to run this algorithm:
+
+1. Run over dataset
+```
+For this option use main.py.
+You will have to provide the dataset in the /data directory.
+```
+3. Run app on two images
+```
+For this option use app.py.
+You will have to provide a query image and a base image.
+```
