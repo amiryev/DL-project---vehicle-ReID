@@ -5,9 +5,6 @@ This is a project in Deep Learning 0510-7255-02 course
 ## Atuhers
 Amir Yevnin
 
-Dor Sivan
-
-Adi ???
 
 ## Pre-requisits
 
